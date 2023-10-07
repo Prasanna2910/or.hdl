@@ -1,0 +1,9 @@
+CHIP Not {
+    IN a;
+    OUT out;
+    
+    PARTS:
+    Not(in=a, out=b);
+    
+
+}
